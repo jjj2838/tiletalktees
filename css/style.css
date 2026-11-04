@@ -40,3 +40,4 @@ nav a{font-weight:600;text-decoration:none;margin-left:1.1rem;color:var(--ink)}n
 .logo{display:block;line-height:0}.logo img{height:64px;width:auto}.logo-foot img{height:72px;width:auto;margin:0 0 .5rem}
 .sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 @media (max-width:800px){.logo img{height:52px}}
+nav a{white-space:nowrap;display:inline-block}
