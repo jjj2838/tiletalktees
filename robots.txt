@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jjj2838.github.io/tiletalktees/sitemap.xml
